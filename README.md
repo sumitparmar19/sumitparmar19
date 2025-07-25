@@ -1,52 +1,52 @@
 <h1 align="center">Hi, I'm Sumit Parmar 👋</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="350" alt="DevOps Animation">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Male Developer GIF">
 </p>
 
 ---
 
 ## 💻 About Me
 
-🎓 MS in Computer Science – University at Buffalo,NY,USA
-🌐 Passionate about building scalable backend systems & cloud infrastructure  
-⚙️ DevOps | Cloud | Software Engineering  
-🌍 Always learning & exploring modern tech tools  
+🎓 MS in Computer Science (Systems Track) – University at Buffalo  
+🌐 Passionate about DevOps, Cloud, and Software Engineering  
+🛠️ Backend Developer | DevOps Engineer | System Designer  
+📈 Always exploring scalable backend & cloud-native solutions  
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### 🚀 DevOps & Cloud
-- Linux • Docker • Git • CI/CD • Jenkins  
-- AWS • GCP • Azure • Networking • System Administration  
+- Linux • Git • Docker • Jenkins  
+- AWS • GCP • Azure • Networking • CI/CD  
 
-### 💡 Backend / Full Stack
-- Java • Node.js • Express.js • REST APIs  
-- SQL / NoSQL • MongoDB • MySQL  
+### 💡 Software Engineering
+- Java • Node.js • Express.js  
+- SQL • MongoDB • REST APIs  
+
+### 🌐 Frontend
 - HTML • CSS • JavaScript • React.js  
 
-### 🔍 Core CS
-- Algorithms • Data Structures  
-- Operating Systems • DBMS • Computer Architecture  
+### 🧠 CS Fundamentals
+- Algorithms • DBMS • OS • Computer Architecture  
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitparmar-profile/) *(update with your real link)*
-- 🧠 [LeetCode](https://leetcode.com/) *(if applicable)*
-- 🛠️ [GitHub Projects](https://github.com/your-github-username)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitparmar-profile/) *(update your real LinkedIn link)*  
+- 💻 [GitHub](https://github.com/your-github-username) *(update your real GitHub username)*  
 
 ---
 
-## ✨ Featured Visuals
+## ✨ Aesthetic Touch
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding Animation"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="300" alt="Thinking Developer"/>
 </p>
 
 ---
 
-⭐️ Feel free to check out my repositories or connect with me on LinkedIn!
+⭐️ *Thanks for visiting! Feel free to check out my repositories and connect with me on LinkedIn.*
