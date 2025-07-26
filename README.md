@@ -8,7 +8,7 @@
 
 ## 💻 About Me
 
-🎓 MS in Computer Science (Systems Track) – University at Buffalo  
+🎓 MS in Computer Science – University at Buffalo  
 🌐 Passionate about DevOps, Cloud, and Software Engineering  
 🛠️ Backend Developer | DevOps Engineer | System Designer  
 📈 Always exploring scalable backend & cloud-native solutions  
