@@ -35,8 +35,8 @@
 
 ## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitparmar-profile/) *(update your real LinkedIn link)*  
-- 💻 [GitHub](https://github.com/your-github-username) *(update your real GitHub username)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/sumitparmar-profile/)  
+- 💻 [GitHub](https://github.com/your-github-username)   
 
 ---
 
